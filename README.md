@@ -1,5 +1,5 @@
 # Up Lightning ⚡
-> Save Dollars, Stack Sats
+> Stop Saving Dollars, Start Stacking Sats
 
 Round up your Up Bank transactions into Bitcoin via the Lightning Network (lnd). This is very much a prototype.
 
